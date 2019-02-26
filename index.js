@@ -75,7 +75,7 @@ async function init() {
   console.log('init successfully');
 }
 
-// init();
+init();
 
 const repl = require('repl');
 repl.start({
